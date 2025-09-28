@@ -9,7 +9,7 @@ Welcome to my data science project repository! This collection showcases my skil
 **Description:**
 This project explores the fascinating intersection of language and personality. By applying Natural Language Processing techniques, the system calculates the "distance" between different personality types based on textual data.
 
-**Key Technologies:**
+**Key Technologies:** 
 * Python
 * Natural Language Processing (NLP)
 * K-Nearest Neighbors (KNN)
